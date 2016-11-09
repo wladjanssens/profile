@@ -1,0 +1,118 @@
+body {
+  background-color: #EBEBEB;
+}
+
+h1 {
+  color: red;
+  font-family: 'Shrikhand', cursive;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+.link_red {
+  text-decoration: none;
+  color: red;
+  padding:30px;
+}
+
+
+ul{
+  text-align: center;
+}
+
+li {
+  color: red;
+  display: inline-table;
+}
+
+li:hover {
+  color:black;
+}
+
+p {
+  font-size: 0.5cm;
+  font-family: 'Oswald', sans-serif;
+}
+
+th {
+  font-family: 'Oswald', sans-serif;
+  color: green;
+}
+
+tr {
+  text-align:left;
+}
+
+#circle_profilepic{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: #c4c4c4;
+}
+
+.brand_image{
+  width: 100px;
+  border-radius: 10%;
+  height: 100px;
+
+}
+
+.brand_image:hover{
+
+}
+
+.container{
+  width: 750px;
+  margin: 0 auto;
+}
+
+.card{
+  background-color: white;
+  text-align: center;
+  box-shadow: 0.4px 0.4px 0.4px black;
+  border-radius: 4px;
+  padding: 20px;
+  padding-right: ;
+  margin: 20px;
+}
+
+
+.red_button{
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+  border-color: #0565A1;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  text-decoration: bold;
+  font-family: 'Oswald', sans-serif;
+}
+
+.red_button:hover{
+  background-color: white;
+  color:red;
+  border-style: solid;
+  border-width: 2px;
+  border-color:red;
+}
+
+#big_icon{
+  font-size: 32px;
+}
+
+.aera{
+  padding:10px;
+}
+
+.shadow_img{
+  box-shadow: 5px 5px #eaeaea;
+}
+
+h4{
+   text-decoration: underline;
+}
